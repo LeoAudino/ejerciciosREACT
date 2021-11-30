@@ -1,0 +1,105 @@
+.titulo {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Rectangulo{
+    background-color: #1B2631;
+    width: 230px;
+    height: 360px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
+
+.LuzVerde{
+    background-color: #00CC00;
+    width: 80px;
+    height: 80px;
+    margin-top: -120px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.LuzAmarilla{
+    background-color: #FFFF33;
+    border-color: red;
+    border-width: 20px;
+    width: 80px;
+    height: 80px;
+    margin-top: -180px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.LuzRoja{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin-top: -180px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.TapaRoja{
+    background-color: #1B2631;
+    width: 76px;
+    height: 76px;
+    margin-top: -78px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.TapaAmarilla{
+    background-color: #1B2631;
+    width: 76px;
+    height: 76px;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.TapaVerde{
+    background-color: #1B2631;
+    width: 76px;
+    height: 76px;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.botonWait{
+    width: 60px;
+    height: 60px;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}
+
+.botonStop{
+    width: 60px;
+    height: 60px;
+    margin-top: -60px;
+    display: block;
+    position: absolute;
+}
+
+.botonGo{
+    width: 60px;
+    height: 60px;
+    margin-top: -60px;
+    display: block;
+    position: absolute;
+}
